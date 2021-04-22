@@ -1,0 +1,15 @@
+body {
+  text-align:center;
+
+  margin:0;
+}
+
+a {
+  text-decoration:none;
+  color:darkorange
+}
+
+a:visited{
+    text-decoration:none;
+    color:darkorange
+   
